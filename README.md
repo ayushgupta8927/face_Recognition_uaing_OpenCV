@@ -10,15 +10,3 @@ and then follow the following steps:
 3) run face_recognition.py file to recognize face 
 
 
-folder structure:
-
-face_Recognition_using_OpenCV
-  |
-  |-Dataset
-  |_trainer
-  |    |-trainer.yml
-  |
-  |-face_dataset.py
-  |-training.py
-  |-face_recognition.py
-  |-haarcascade_frontalface_default.xml
