@@ -9,6 +9,7 @@ and then follow the following steps:
 2) Run run training.py file to train data 
 3) run face_recognition.py file to recognize face 
 
+
 folder structure:
 
 face_Recognition_using_OpenCV
